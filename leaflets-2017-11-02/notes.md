@@ -1,3 +1,7 @@
+# Tagachang Beach Area
+
+Leaflets collected on November 2, 2017.
+
 | Image | Leaflet | Quality | Used |
 | ----- | ------- | ------- | ---- |
 PB020021 | TG01 bottom | | X |
@@ -18,13 +22,11 @@ PB020035 | TG04 bottom||X
 PB020036 | TG04 top | slightly clipped
 PB020037 | TG04 top||X
 
-Open stack from list:
-
-PB020021
-PB020023
-PB020026
-PB020028
-PB020031
-PB020032
-PB020035
-PB020037
+![](enhanced/PB020021.PNG)
+![](enhanced/PB020023.PNG)
+![](enhanced/PB020026.PNG)
+![](enhanced/PB020028.PNG)
+![](enhanced/PB020031.PNG)
+![](enhanced/PB020032.PNG)
+![](enhanced/PB020035.PNG)
+![](enhanced/PB020037.PNG)
