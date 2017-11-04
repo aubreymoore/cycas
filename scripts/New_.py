@@ -1,4 +1,5 @@
 from ij import IJ
+from ij.io import FileSaver  
 from time import sleep
 
 image_list = ['PB020021','PB020023','PB020026','PB020028',
@@ -9,6 +10,8 @@ for image in image_list:
 	imp.show()
 	print imp
 	IJ.run(imp, "Enhance Contrast...", "saturated=0.3")
+	fs = FileSaver(imp) 
+	fs.saveAsPng("/home/aubreymoore/cycas/leaflets-2017-11-02/enhanced/{}.PNG".format(image))	 
 	sleep(1)
 	imp.close()
 print 'FINISHED'
